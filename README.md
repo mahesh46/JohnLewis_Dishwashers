@@ -1,7 +1,7 @@
 # JohnLewis_Dishwashers.
 
 >John Lewis App to show Dishwasher range on IPhone and Tablet devices.
->List the Dishasers in a Grid, and Show Details with carousel and product information
+>List the Dishwasers in a Grid, and Show Details with carousel and product information
 
 
 
